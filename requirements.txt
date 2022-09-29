@@ -3,3 +3,6 @@ Excel
 SQL
 PowerBI
 Python
+
+Statistics
+AWS Solution Architect
