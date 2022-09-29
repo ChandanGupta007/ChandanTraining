@@ -1,0 +1,5 @@
+this is data analytics project
+Excel
+SQL
+PowerBI
+Python
