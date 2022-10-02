@@ -6,3 +6,7 @@ Python
 
 Statistics
 AWS Solution Architect
+
+Payment Options
+Send Money
+Receive Money
